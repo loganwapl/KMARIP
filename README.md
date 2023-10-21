@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm KMAR</h1>
 <h3 align="center">IP Radio station from Maryland</h3>
+- ⭐️ My avatar is from BunnyTub (gadielisawesome)
 
 - 🔭 I’m currently working on [WeatherResources](https://github.com/KMARIP/WeatherResources)
 
