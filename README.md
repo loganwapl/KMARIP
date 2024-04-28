@@ -1,27 +1,21 @@
-<h1 align="center">Hi 👋, I'm KMAR</h1>
-<h3 align="center">IP Radio station from Maryland</h3>
+<h1 align="center">Hi 👋, I'm Logan</h1>
+<h3 align="center">Proud Meterorologist from Baltimore</h3>
 
-- ⭐️ My avatar is from BunnyTub (gadielisawesome)
+- ⭐️ My avatar is from Google)
 
-- 🔭 I’m currently working on [WeatherResources](https://github.com/KMARIP/WeatherResources)
+- 🔭 I’m currently working on [Nothing](about:blank)
 
-- 🌱 I’m currently learning **CS and JS**
+- 🌱 I’m currently learning **JS**
 
 - 👯 I’m looking to collaborate on [FreeDEC](https://github.com/EnergeticRadio/FreeDEC)
 
-- 🤝 I’m looking for help with [KMARCore](https://github.com/KMARIP/KMARCore)
-
-- 👨‍💻 All of my projects are available at [www.kmar.bio](www.kmar.bio)
-
-- 📝 I regularly write articles on [weatherresources.kmar.bio](weatherresources.kmar.bio)
-
 - 💬 Ask me about **HTML and Python**
 
-- 📫 How to reach me **kmaripradio@gmail.com**
+- 📫 How to reach me **xaepoop@gmail.com**
 
 - 📄 Know about my experiences [none](none)
 
-- ⚡ Fun fact **KMAR was a station developed at 2 am.**
+- ⚡ Fun fact **Im cool.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
